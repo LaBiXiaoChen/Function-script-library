@@ -2,13 +2,10 @@
 
 #### python技巧:
 
-<hr>
-
 ```
 1.将python文件转换为exe文件
-    pip install pyinstaller
-    pyinstaller --onefile ./指定文件名
-
+  pip install pyinstaller
+  pyinstaller --onefile ./指定文件名
 ```
 
 <hr>
