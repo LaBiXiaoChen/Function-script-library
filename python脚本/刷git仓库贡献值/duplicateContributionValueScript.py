@@ -1,8 +1,14 @@
 #!/usr/bin/python
-# 导入系统操作os库
-import os
-# 导入延时器函数time库
-import time
+
+# Date: 2021-06-16 20:07:19
+# LastEditors: LaBiXiaoChen
+# LastEditTime: 2021-06-17 10:59:19
+# FilePath: \undefinedc:\Users\23689\Desktop\Function-script-library\python脚本\刷git仓库贡献值\duplicateContributionValueScript.py
+
+# 导入系统操作os库,导入延时器函数time库
+import os,time
+
+
 
 contributeNumber = int(input('请输入想要贡献的次数值，次数越多，脚本运行时间越长:'))
 waitTime = int(input('请输入每次准备等待的时间:'))
