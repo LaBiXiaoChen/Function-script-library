@@ -1,5 +1,19 @@
 ## python脚本
-#### 其他文档资源链接:[python官网](https://www.python.org/);
+
+#### python技巧:
+
+<hr>
+
+```
+1.将python文件转换为exe文件
+    pip install pyinstaller
+    pyinstaller --onefile ./指定文件名
+
+```
+
+<hr>
+
+#### 其他文档资源链接:[python官网](https://www.python.org/);[pyinstaller官网](http://www.pyinstaller.org/);
 
 <hr>
 
