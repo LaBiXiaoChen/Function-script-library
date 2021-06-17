@@ -12,7 +12,7 @@
 2.将脚本放置在需要用来刷贡献值的仓库中，建议创建test仓库
 3.完成基本的git仓库的步骤，实现可以提交代码的环境
 4.下载python3编译器，搭建python3环境
-5.使用cmd或者powershell等工具启动此脚本
+5.使用cmd或者powershell等工具运行命令 python duplicateContributionValueScript.py 即可启动此脚本
 6.enjoy it
 ```
 
