@@ -1,4 +1,3 @@
-
 ## PowerShell批处理脚本
 #### [介绍](https://baike.baidu.com/item/Windows%20Power%20Shell/693789?fr=aladdin):
 ```
@@ -10,7 +9,7 @@ Cmdlet包括显示当前目录的Get-Location，访问文件内容的Get-Content
 PowerShell v3在Windows Server 8中装载了Windows Management Framework 3.0。PowerShell运行环境也能嵌入到其它应用。
 ```
 
-#### 其他文档资源链接:[PowerShell 在线教程](https://www.pstips.net/);[官方Windows PowerShell脚本速成课程](https://docs.microsoft.com/zh-cn/previous-versions/technet-magazine/hh551144(v=msdn.10))
+#### 其他文档资源链接:[PowerShell 在线教程](https://www.pstips.net/);[官方Windows PowerShell脚本速成课程](https://docs.microsoft.com/zh-cn/previous-versions/technet-magazine/hh551144(v=msdn.10));[脚本之家](https://www.jb51.net/list/list_234_1.htm);
 
 <hr>
 

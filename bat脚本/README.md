@@ -1,7 +1,13 @@
 
-## Bat批处理脚本
+## Bat批处理脚本(废弃)
 
 #### 因为bat脚本的语法繁杂且不易维护，从2021年6月19日开始，不再使用bat语法编写windows执行脚本，如果需要想要windows脚本，请点击[powershe脚本库](../PowerShell脚本/)进行下载
+
+<hr>
+
+#### [你应该选择 Powershell 的10个理由(抛弃 cmd)](https://www.jb51.net/article/125100.htm)
+
+<hr>
 
 #### [介绍](https://baike.baidu.com/item/bat/365230?fr=aladdin):
 ```
