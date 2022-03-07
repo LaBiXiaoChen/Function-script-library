@@ -1,6 +1,6 @@
 ## python脚本
 
-#### python技巧:
+#### python技巧(优先编写此脚本):
 
 ```
 1.将python文件转换为exe文件
