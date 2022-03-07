@@ -6,7 +6,10 @@
 # 3.能进行终端菜单显示和用户选择
 # 4.能反馈执行情况
 
+echo '欢迎您来到我的bash脚本系统中'
+# say 'welcome my dear sir,enjoy'
 
-
-
+echo '我现在在给我的脚本们提升权限'
+# TODO:脚本批量提升权限问题还未解决
+chmod 755 -R ./*
 
