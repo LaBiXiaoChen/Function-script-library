@@ -7,3 +7,5 @@ brew install mas
 
 # 一键升级所有的Store应用
 mas upgrade
+
+say '已经完成了'
