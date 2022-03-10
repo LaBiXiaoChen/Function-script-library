@@ -22,6 +22,6 @@ brew install fish
 # sl安装，一个会跑的火车
 brew install sl
 
-echo '我现在在给我的脚本们提升权限'
+echo '现在在给我的脚本们提升权限'
 # TODO:脚本批量提升权限问题还未解决,钩子脚本未完成
 chmod 755 -R ./*
