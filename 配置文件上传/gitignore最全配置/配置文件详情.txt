@@ -176,3 +176,6 @@ buildNumber.properties
 .mvn/timing.properties
 
 logs/
+
+# 添加忽略node环境包的文件夹
+node_modules/
