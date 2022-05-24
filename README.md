@@ -1,6 +1,6 @@
 <div  align="center">
 <strong>功能脚本库</strong><br>
-<img src="https://pic.imgdb.cn/item/60b6e64339f6859bc280b2b0.jpg" width = "300" height = "200" alt="图片名称" align=center />
+<img src="./Imgs/script.png" width = "300" height = "200" alt="图片名称" align=center />
 <hr>
 </div>
 
