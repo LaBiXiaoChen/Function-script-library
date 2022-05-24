@@ -1,4 +1,4 @@
-## python脚本(优先编写此脚本):
+## python脚本:
 
 #### python技巧
 
