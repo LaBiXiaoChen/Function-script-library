@@ -1,12 +1,8 @@
-## python脚本:
+## python脚本
 
-#### python技巧
-
-```
-1.将python文件转换为exe文件
-  pip install pyinstaller
-  pyinstaller --onefile ./指定文件名
-```
+<div align="center">
+<img src="../Imgs/python脚本.png" width = "300" height = "200" alt="图片名称" align=center />
+</div>
 
 <hr>
 

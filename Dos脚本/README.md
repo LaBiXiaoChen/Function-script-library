@@ -5,6 +5,10 @@
 
 <hr>
 
+<div align="center">
+<img src="../Imgs/dos脚本.png" width = "300" height = "200" alt="图片名称" align=center />
+</div>
+
 #### [你应该选择 Powershell 的10个理由(抛弃 cmd)](https://www.jb51.net/article/125100.htm)
 
 <hr>

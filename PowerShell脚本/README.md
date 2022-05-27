@@ -1,5 +1,12 @@
-## PowerShell批处理脚本(windows无实体机器进行代码编写):
-#### [介绍](https://baike.baidu.com/item/Windows%20Power%20Shell/693789?fr=aladdin):
+## PowerShell批处理脚本(windows无实体机器进行代码编写)
+
+#### [介绍](https://baike.baidu.com/item/Windows%20Power%20Shell/693789?fr=aladdin)
+
+<div align="center">
+<img src="../Imgs/PowerShell脚本.png" width = "300" height = "200" alt="图片名称" align=center />
+</div>
+
+
 ```
 Windows PowerShell 是一种命令行外壳程序和脚本环境，使命令行用户和脚本编写者可以利用 .NET Framework的强大功能。
 它引入了许多非常有用的新概念，从而进一步扩展了您在 Windows 命令提示符和 Windows Script Host 环境中获得的知识和创建的脚本。
